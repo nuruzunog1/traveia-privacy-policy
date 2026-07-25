@@ -32,7 +32,7 @@ When you use the Service, we automatically collect:
 - **Usage Data:** Pages or screens viewed, features used, time spent in the app, quiz responses, and destination interactions (views, saves, shares)
 - **Device Information:** Device type, operating system version, unique device identifiers, and mobile network information
 - **Log Data:** IP address, browser type, access timestamps, and crash reports
-- **Location Data:** We do **not** collect precise GPS location. We may infer approximate region based on your stated country of residence or IP address solely to improve recommendation relevance
+- - **Location Data:** When you use the "Visited" verification feature, we access your device's precise GPS location, with your explicit permission, solely to calculate your distance from a destination and confirm your visit. This location data (coordinates and calculated distance) is processed momentarily on your device and is **not stored** on our servers — only the resulting verification status and the date of verification are saved to your account. For general recommendation purposes unrelated to visit verification, we may separately infer an approximate region based on your stated country of residence or IP address
 
 ### 2.3 Information from Third Parties
 
